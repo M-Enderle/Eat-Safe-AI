@@ -1,0 +1,6 @@
+[submodule "Eat-Safe-AI-FastAPI"]
+	path = Eat-Safe-AI-FastAPI
+	url = https://github.com/M-Enderle/Eat-Safe-AI-FastAPI
+[submodule "Eat-Safe-AI-App"]
+	path = Eat-Safe-AI-App
+	url = https://github.com/M-Enderle/Eat-Safe-AI-App
