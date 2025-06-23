@@ -20,7 +20,7 @@
 
 See Eat Safe AI in action! Watch our demo video to get a quick overview of the app's features and functionality:
 
-https://github.com/M-Enderle/Eat-Safe-AI/blob/main/documentation/demo.mp4
+https://github.com/user-attachments/assets/728692d9-2dd1-453e-91ba-2e9b617556f0
 
 ---
 
