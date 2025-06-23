@@ -94,7 +94,9 @@ Our FastAPI server is deployed and running on **Vercel**:
 This application was developed as part of a project at **Johannes Kepler University (JKU)** Linz, Austria.
 
 **👨‍💻 Developed by:** M. Enderle & H. Durchschlag
+
 **🏫 Institution:** Johannes Kepler University Linz  
+
 **📅 Year:** 2025
 
 ---
